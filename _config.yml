@@ -3,8 +3,8 @@
 
 title: Web Metro Limited
 description: Building Digital Africa — Web development, app development and digital marketing for African businesses.
-url: "https://YOUR-USERNAME.github.io"
-baseurl: "/webmetro"
+url: "https://barakawatulo.github.io"
+baseurl: "/onwebmetro"
 
 # Exclude WordPress theme zip and source files from Jekyll processing
 exclude:
